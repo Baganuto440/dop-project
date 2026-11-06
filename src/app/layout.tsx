@@ -3,7 +3,7 @@ import type { ReactNode } from 'react';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Todoshka',
+  title: 'dop-project',
   description: 'Todo list application',
 };
 

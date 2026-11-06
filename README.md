@@ -1,6 +1,6 @@
-# Проект todoshka - Todo List Application
+# Проект dop-project - Todo List Application
 
-![til](https://github.com/Leyrox312/todoshka/blob/main/2026-06-26%2001-56-52%20(1).gif)
+![til](https://github.com/Baganuto440/dop-project)
 
 ## Архитектура
 
@@ -51,10 +51,10 @@
 
 1. Скачать проект из репозитория любым удобным способом
 2. Распаковать его в любое удобное место
-3. Открыть папку todoshka в терминале
+3. Открыть папку dop-project в терминале
 4. Установить PostgreSQL локально (если не установлен)
-5. Создать базу данных с именем todoshka
-6. В файле .env заменить DATABASE_URL на вашу локальную PostgreSQL строку подключения (пример: postgresql://USER:PASSWORD@localhost:5432/todoshka?schema=public)
+5. Создать базу данных с именем dop-project
+6. В файле .env заменить DATABASE_URL на вашу локальную PostgreSQL строку подключения (пример: postgresql://USER:PASSWORD@localhost:5432/dop-project?schema=public)
 7. Установить зависимости: npm install
 8. Инициализировать базу данных: npx prisma migrate dev --name init
 9. Запустить приложение в режиме разработки: npm run dev
@@ -63,4 +63,4 @@
 
 ## Ссылка на деплой
 
-https://todoshka-leyrox312s-projects.vercel.app?_vercel_share=tnyPgYhTci0WMW4NAmaH3LarldJCHvAe
+https://dop-project-leyrox312s-projects.vercel.app?_vercel_share=tnyPgYhTci0WMW4NAmaH3LarldJCHvAe
